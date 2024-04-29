@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### A Full-Stack Developer by day ☼ and a Content Creator by night ☾
+#### A Full-Stack Developer Web3/Web2 ☾
 
 - 🔭 I’m currently working on web3 projects as a Researcher and Smart Contract Developer
 - 🌱 I’m currently learning on 
