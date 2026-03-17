@@ -11,7 +11,7 @@ I'm deep in the **agentic layer** — building LLM-powered agents, designing int
 - 🤖 LLM-powered agents & autonomous workflows
 - 🔧 AI tooling for faster, smarter software delivery
 - 🔭 Researching & developing Smart Contracts and Web3 protocols
-- ✍️ Writing about AI, engineering & the agentic future on **[Substack](https://illuminatemee.substack.com/)**
+- ✍️ Writing about AI & Eastern Contemplative Science on **[Substack](https://illuminatemee.substack.com/)**
 
 ---
 
